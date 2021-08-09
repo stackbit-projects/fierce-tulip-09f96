@@ -1,5 +1,5 @@
 ---
-title: Fujos de trabajo Con Sharepoint Online
+title: Fujos de trabajo Con SharePoint Online
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
