@@ -1,8 +1,9 @@
 ---
-title: Making Time for What's Important
+title: Fujos de trabajo Con SharePoint Online
 subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
-date: 2020-05-30
+  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
+  effectus est, hilara vita amissa est.
+date: '2020-05-30'
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/news.yaml
@@ -19,28 +20,28 @@ image_alt: Post 4 placeholder image
 image_position: right
 seo:
   title: Making Time for What's Important
-  description: Itaque hoc frequenter dici solet a vobis, non intellegere nos
+  description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Making Time for What's Important
       keyName: property
-    - name: og:description
-      value: Itaque hoc frequenter dici solet a vobis, non intellegere nos
+    - name: 'og:description'
+      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-2.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Making Time for What's Important
-    - name: twitter:description
-      value: Itaque hoc frequenter dici solet a vobis, non intellegere nos
-    - name: twitter:image
+    - name: 'twitter:description'
+      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+    - name: 'twitter:image'
       value: images/post-2.jpg
       relativeUrl: true
 layout: post
