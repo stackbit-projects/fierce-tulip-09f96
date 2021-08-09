@@ -154,5 +154,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://fierce-tulip-09f96.netlify.app"
 }
