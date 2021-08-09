@@ -1,5 +1,5 @@
 ---
-title: Crear Sitios con SharePoint Online
+title: Crear Sitios alucinantes con SharePoint Online
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
