@@ -1,5 +1,5 @@
 ---
-title: crear fujos de trabajo sin complicaciones con SharePoint Online
+title: Crear flujos de trabajo sin complicaciones con SharePoint Online
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
